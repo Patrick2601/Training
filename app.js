@@ -50,4 +50,10 @@
 // const c:number=1;
 // console.log(c)
 // console.warn(Error("jjjj"))
+<<<<<<< HEAD
 console.log("Changed")
+=======
+
+
+console.log("hhhhh")
+>>>>>>> ab6bed1d58ab580d0baaf81c51c81ff43e72f3c1
