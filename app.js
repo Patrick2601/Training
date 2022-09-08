@@ -50,3 +50,6 @@
 // const c:number=1;
 // console.log(c)
 // console.warn(Error("jjjj"))
+
+
+console.log("hhhhh")
